@@ -1,0 +1,14 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+
+.products-container{
+    background-color: beige;
+    padding: 10px;
+}
+.cart-container{
+    background-color: #a9ffe5;
+    padding: 10px;
+}

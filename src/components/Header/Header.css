@@ -1,0 +1,39 @@
+.nav-container{
+    height: 80px;
+    background-color: #1c2b35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+    
+}
+
+
+.nav-container a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-style: 17px;
+    margin-left: 36px;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+.nav-container a:hover{
+    color: orange;
+}
+
+
+.nav-container .logo{
+    width: 100px;
+}
+
+
+@media only screen and (max-width: 425px){
+    /*Small smartphones [325px -> 425px]*/
+   
+
+  
+
+    }
